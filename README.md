@@ -13,10 +13,9 @@ This Bash script collects detailed system information about a Linux machine. It'
 - Colorful output for readability
 
 
-## 📝 Sample Output
-See `sample-output/system_report_YYYY-MM-DD_HH-MM-SS.txt`
 
 ## 🧪 How to Run
 ```bash
+#First give the executable permission
 chmod +x system-info.sh
 ./system-info.sh
