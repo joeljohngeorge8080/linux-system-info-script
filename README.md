@@ -16,6 +16,14 @@ This Bash script collects detailed system information about a Linux machine. It'
 
 ## 🧪 How to Run
 ```bash
-#First give the executable permission
+git clone [My repo ]
+ls
+cd linux-system-info-script
 chmod +x system-info.sh
 ./system-info.sh
+```
+## 👨‍💻 Author
+
+**Joel John George**  
+BTech CSE (2023–2027) | DevSecOps Enthusiast  
+[GitHub](https://github.com/joeljohngeorge8080) | [LinkedIn](https://www.linkedin.com/in/joel-john-george-716874287?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
